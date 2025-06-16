@@ -62,8 +62,8 @@
   <summary>📊 GitHub Stats</summary>
   <br>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=jakubstribrny&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub stats" />
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakubstribrny&layout=compact&theme=tokyonight" alt="Top Langs" />
   </p>
 </details>
