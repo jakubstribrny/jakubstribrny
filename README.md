@@ -46,8 +46,8 @@
 ### 📬 Let's connect!
 
 <p>
-  <a href="mailto:kubastribrny@icloud.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://discord.com/users/argent_dis" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-argent__dis-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://jakubstribrny.cz" target="_blank">
     <img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
