@@ -36,22 +36,20 @@
 ---
 
 ### ⚙️ Currently exploring
-- 🧠 Offline AI agents (LLM orchestration, RAG, persistent memory)
-- 🎮 Game development in Ren'Py
-- 📈 Power Platform (PowerApps, Power BI, automation)
+- 🧠 Smart AI systems – local & cloud-based LLMs, agentic workflows, memory & voice interaction
+- 🌐 Building modern web & SaaS apps using bleeding-edge tech (Next.js, Tailwind, Vercel, FastAPI)
+- 🖥️ Crafting native Windows desktop tools (automation, productivity, AI-assisted apps)
+- 🧩 Fullstack automation – connecting APIs, scraping, scripting & task orchestration with Python
 
 ---
 
 ### 📬 Let's connect!
 
 <p>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:kubastribrny@icloud.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://your-website.com" target="_blank">
+  <a href="https://jakubstribrny.cz" target="_blank">
     <img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
