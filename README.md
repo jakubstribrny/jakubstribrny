@@ -27,6 +27,7 @@
 
 #### 🗃️ Databases & DevOps  
 <p>
+  <img src="https://img.shields.io/badge/-MySQL-4169E1?logo=mysql&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=000&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Vercel-000?logo=vercel&logoColor=fff&style=for-the-badge" />
