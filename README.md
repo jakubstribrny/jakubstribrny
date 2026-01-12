@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Jakub 👋</h1>
 <p align="center">
-  <i>A 20 y.o. curious builder & automation enthusiast based in Czech Republic 🇨🇿</i><br>
+  <i>A 21 y.o. curious builder, developer & automation enthusiast based in Czech Republic 🇨🇿</i><br>
   <i>I craft tools, games and intelligent agents that make life smoother and more fun.</i>
 </p>
 
