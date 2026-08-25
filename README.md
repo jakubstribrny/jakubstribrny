@@ -38,8 +38,6 @@ domain:
   - diagnostic protocols
   - testing & tooling
   - internal development
-
-status: "probably looking at another trace"
 ```
 
 Outside of work, I build systems around **AI, automation and industrial technology**.
@@ -129,6 +127,7 @@ Current interests:
 When I'm not programming:
 
 ```text
+[00] girls
 [01] cars
 [02] anime
 [03] games
@@ -146,8 +145,6 @@ Games?
 and whatever manages to consume my free time next.
 
 Anime belongs somewhere in the stack too.
-
-Probably above the kernel.
 
 ---
 
