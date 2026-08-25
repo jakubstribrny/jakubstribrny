@@ -180,10 +180,10 @@ I'm probably interested.
 <br>
 
 [![Operance](https://img.shields.io/badge/OPERANCE-000000?style=for-the-badge)](https://operance.cz)
-[![Discord](https://img.shields.io/badge/argent__dis-000000?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.com/users/argent_dis)
+[![Discord](https://img.shields.io/badge/shirobyte_-000000?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.com/users/shirobyte_)
 
 <br>
 
-`SYSTEM STATUS: ONLINE`
+`SYSTEM STATUS: OFFLINE probably, dont talk to m e`
 
 </div>
