@@ -1,107 +1,192 @@
-<h1 align="center">Hey, I'm Jakub 👋</h1>
-<p align="center">
-  <i>Founder & full-stack developer building real SaaS products 🇨🇿</i><br>
-  <i>Automation, AI-assisted workflows & scalable platforms with business impact.</i>
-</p>
+<div align="center">
+
+# `SHIROBYTE`
+
+### software / machines / intelligence
+
+`CZ // 21`
+
+*I build things that talk to machines.*
+*Sometimes the machines talk back.*
+
+</div>
 
 ---
 
-## 🏢 Company
+```text
+> whoami
 
-### **Operance Software**
-Founder & owner of **Operance Software**, a product-focused software studio  
-🌐 https://operance.cz  
+software developer
+automotive diagnostics by day
+AI & automation by night
 
-Operance Software builds and operates SaaS products with a strong focus on:
-- automation-first architecture
-- AI-assisted features
-- modern web stacks
-- measurable business outcomes
+somewhere between CAN frames,
+neural networks and questionable amounts of caffeine.
+```
 
----
+## `// CURRENTLY`
 
-## 🚀 Flagship Product
+**Full-time — Automotive Diagnostics Development**
 
-### **BravoWork** – AI-powered hiring platform  
-🌐 https://bravowork.cz  
+Working close to the metal where software meets actual machines.
 
-Modern HR & recruitment SaaS built for Czech & EU companies.
+```yaml
+domain:
+  - automotive diagnostics
+  - CAN / LIN
+  - vehicle communication
+  - diagnostic protocols
+  - testing & tooling
+  - internal development
 
-**What BravoWork solves:**
-- Too many irrelevant candidates  
-- Slow recruiter–candidate communication  
-- Fragmented hiring tools  
-- Manual onboarding & follow-ups  
+status: "probably looking at another trace"
+```
 
-**Core features:**
-- AI-assisted candidate ↔ job matching  
-- Integrated chat & automated communication  
-- Smart onboarding flows  
-- Centralized hiring pipeline for companies  
+Outside of work, I build systems around **AI, automation and industrial technology**.
 
 ---
 
-## 📈 BravoWork Milestones
+## `// OPERANCE`
 
-<img src="https://img.shields.io/badge/launch-80%25-orange"/>
+**Founder / Developer — Operance**
 
-- 🧠 Designed AI matching architecture
-- 🏗️ Full SaaS platform built (auth, roles, dashboards, chat)
-- 🌍 Multilingual support (CZ / EN)
-- ⚙️ Custom backend API (separate from frontend)
-- 📊 Monetization model defined
+Operance is focused on building software where automation actually matters.
 
-> Focus: launch → traction → feedback → iteration → revenue
+Not another website factory.
 
----
+We experiment with and develop:
 
-## 🛠️ Tech Stack
+```text
+industrial automation
+AI-assisted workflows
+internal tooling
+computer vision
+data processing
+hardware ↔ software integration
+autonomous systems
+```
 
-### 🧠 Languages  
-<p>
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
-  <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=fff&style=for-the-badge" />
-</p>
+The goal is simple:
 
-### 🧰 Frameworks & Platforms  
-<p>
-  <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge" />
-</p>
-
-### 🗃️ Data, Infra & DevOps  
-<p>
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-MySQL-4169E1?logo=mysql&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=000&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Vercel-000?logo=vercel&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=fff&style=for-the-badge" />
-</p>
+> Find repetitive or inefficient processes.
+> Make the machine do them instead.
 
 ---
 
-## ⚙️ How I think about building products
-- Automation is **a multiplier**, not the product itself
-- AI must be **embedded into workflows**, not bolted on
-- Shipping > perfection
-- Every feature must justify its business value
+## `// STACK`
+
+**Languages**
+
+`Python` `C#` `TypeScript` `JavaScript` `SQL`
+
+**Web / Backend**
+
+`React` `Next.js` `Node.js` `FastAPI` `.NET`
+
+**Data**
+
+`PostgreSQL` `MySQL` `Redis`
+
+**Systems**
+
+`Linux` `Docker` `Git` `GitHub Actions`
+
+**Things I probably enjoy more than I should**
+
+`CAN` `LIN` `Raspberry Pi` `Computer Vision` `LLMs` `RAG`
+`AI Agents` `Automation` `Embedded Systems` `Diagnostics`
 
 ---
 
-## 📬 Contact
-<p>
-  <a href="https://discord.com/users/argent_dis" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-argent__dis-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://bravowork.cz" target="_blank">
-    <img src="https://img.shields.io/badge/BravoWork-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://operance.cz" target="_blank">
-    <img src="https://img.shields.io/badge/Operance_Software-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</p>
+## `// AI`
+
+I don't really care about making another chatbot.
+
+I'm interested in AI that can **see, reason, search, operate tools and interact with real systems.**
+
+```python
+while problem.exists():
+    observe()
+    understand()
+    automate()
+```
+
+Current interests:
+
+* local AI systems
+* agentic workflows
+* memory & context architectures
+* RAG / knowledge systems
+* computer vision
+* AI-assisted development
+* industrial AI
+* human-machine interfaces
+
+---
+
+## `// SIDE QUESTS`
+
+When I'm not programming:
+
+```text
+[01] cars
+[02] anime
+[03] games
+[04] hardware
+[05] breaking something
+[06] figuring out why it broke
+[07] making it unnecessarily better
+```
+
+Cars are basically computers with significantly more expensive error messages.
+
+Games?
+
+`Cyberpunk 2077` `Detroit: Become Human` `Counter-Strike` `League of Legends`
+and whatever manages to consume my free time next.
+
+Anime belongs somewhere in the stack too.
+
+Probably above the kernel.
+
+---
+
+## `// PHILOSOPHY`
+
+```text
+make it work.
+understand why it works.
+break it.
+build it better.
+```
+
+I like technology that crosses the boundary between **software and the physical world**.
+
+Cars.
+Machines.
+Cameras.
+Networks.
+AI.
+
+If software can observe something, understand it and eventually control it —
+
+I'm probably interested.
+
+---
+
+<div align="center">
+
+### `銀 // BYTE`
+
+*"The machine doesn't care how impossible it looked."*
+
+<br>
+
+[![Operance](https://img.shields.io/badge/OPERANCE-000000?style=for-the-badge)](https://operance.cz)
+[![Discord](https://img.shields.io/badge/argent__dis-000000?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.com/users/argent_dis)
+
+<br>
+
+`SYSTEM STATUS: ONLINE`
+
+</div>
